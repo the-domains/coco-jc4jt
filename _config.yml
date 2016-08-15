@@ -1,0 +1,14 @@
+layout_spectrum: 0.28512471192516387
+typography_spectrum: 0.7956846936140209
+color:
+  brandStrength: 0.0005303549114614725
+  lightness: 0.5728552669752389
+  saturation: 0.4037663459312171
+  rhythmicContrast: 0.001195236574858427
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+name: COCO
