@@ -1,4 +1,6 @@
 typography_spectrum: 0.7956846936140209
+content_rating:
+  adult: false
 color:
   brandStrength: 0.0005303549114614725
   lightness: 0.5728552669752389
@@ -12,7 +14,4 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.28512471192516387
 name: COCO
-title: |
-  tseb 
-  eht
-  be
+title: Hello
